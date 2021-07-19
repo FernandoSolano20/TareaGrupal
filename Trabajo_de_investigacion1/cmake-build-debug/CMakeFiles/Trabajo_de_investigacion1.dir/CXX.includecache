@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/Gestor.cpp
+Gestor.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/Gestor.h
+iostream
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/Gestor.h
+../bl/listaCircular/listaCircular.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaCircular/listaCircular.h
+listaDobleEnlace/listaDobleEnlace.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaDobleEnlace/listaDobleEnlace.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaCircular/listaCircular.cpp
+listaCircular.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaCircular/listaCircular.h
+iostream
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaCircular/listaCircular.h
+../nodo/Nodo.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/nodo/Nodo.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaDobleEnlace/listaDobleEnlace.cpp
+listaDobleEnlace.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaDobleEnlace/listaDobleEnlace.h
+iostream
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaDobleEnlace/listaDobleEnlace.h
+../nodo/NodoDobleEnlace.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/nodo/NodoDobleEnlace.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/nodo/Nodo.cpp
+Nodo.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/nodo/Nodo.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/nodo/Nodo.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/nodo/NodoDobleEnlace.cpp
+NodoDobleEnlace.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/nodo/NodoDobleEnlace.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/nodo/NodoDobleEnlace.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/main.cpp
+iostream
+-
+ui/ui/Ui.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/ui/ui/Ui.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/ui/tl/Controller.cpp
+Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/ui/tl/Controller.h
+iostream
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/ui/tl/Controller.h
+../../bl/listaCircular/listaCircular.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaCircular/listaCircular.h
+../../bl/listaDobleEnlace/listaDobleEnlace.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/listaDobleEnlace/listaDobleEnlace.h
+../../bl/Gestor.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/bl/Gestor.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/ui/ui/Ui.cpp
+Ui.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/ui/ui/Ui.h
+iostream
+-
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/ui/ui/Ui.h
+../tl/Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/Trabajo_de_investigacion1/Trabajo_de_investigacion1/ui/tl/Controller.h
+
