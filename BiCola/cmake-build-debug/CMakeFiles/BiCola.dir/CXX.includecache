@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/Controller/Controller.cpp
+Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/Controller/Controller.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/Controller/Controller.h
+../structures/List.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/structures/List.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/main.cpp
+iostream
+-
+Controller/Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/Controller/Controller.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/structures/List.cpp
+cstddef
+-
+List.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/structures/List.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/structures/List.h
+Node.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/structures/Node.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/structures/Node.cpp
+Node.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/structures/Node.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/TareaGrupal/BiCola/structures/Node.h
+
